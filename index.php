@@ -3,11 +3,11 @@ ini_set('display_errors', '0');
 //把下面的资料改成您的
 
 //网站名字
-$siteName='天天看视频';
+$siteName='爬墙大枢纽站-YTB-1080/4K/Live';
 
 //youtube API V3 KEY:
 
-$key='*******************************************';
+$key='AIzaSyA2tiPk017-VndAw1CZPeT-syf_dQyLJVU';
 
 
 //其他地方不用改。
