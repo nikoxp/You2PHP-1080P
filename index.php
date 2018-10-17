@@ -7,7 +7,7 @@ $siteName='爬墙大枢纽站-YTB-1080/4K/Live';
 
 //youtube API V3 KEY:
 
-$key='AIzaSyA2tiPk017-VndAw1CZPeT-syf_dQyLJVU';
+$key='AIzaSyDptzYSeyXeTfB3r3Cd2o0u9ByE5BdfEZU';
 
 
 //其他地方不用改。
